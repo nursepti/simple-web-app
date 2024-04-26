@@ -1,0 +1,16 @@
+{
+  "name": "k8s-web-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.jms"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^20.12.7",
+    "express": "^4.19.2"
+  }
+}
